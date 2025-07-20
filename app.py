@@ -8,7 +8,8 @@ def load_books():
     try:
         with open("data/books.json", "r") as f:
             return json.load(f)
-    except:
+    except Exception as e:
+        st.error(f"Gagal memuat data buku: {e}")
         return []
 
 books = load_books()
@@ -29,6 +30,8 @@ filtered = [
 ]
 
 st.title("📚 Books to Scrape - Explorer")
+if not filtered:
+    st.warning("Tidak ada buku ditemukan dengan filter saat ini.")
 for book in filtered:
     with st.expander(book['title']):
         st.metric("💲 Harga", book['price'])
