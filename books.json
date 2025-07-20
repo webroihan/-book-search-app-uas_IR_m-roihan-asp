@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Book Title 1",
+    "price": "\u00a32.00",
+    "availability": "Out of stock",
+    "rating": "Two"
+  },
+  {
+    "title": "Book Title 2",
+    "price": "\u00a34.00",
+    "availability": "In stock",
+    "rating": "Three"
+  },
+  {
+    "title": "Book Title 3",
+    "price": "\u00a36.00",
+    "availability": "Out of stock",
+    "rating": "Four"
+  },
+  {
+    "title": "Book Title 4",
+    "price": "\u00a38.00",
+    "availability": "In stock",
+    "rating": "Five"
+  },
+  {
+    "title": "Book Title 5",
+    "price": "\u00a310.00",
+    "availability": "Out of stock",
+    "rating": "One"
+  },
+  {
+    "title": "Book Title 6",
+    "price": "\u00a312.00",
+    "availability": "In stock",
+    "rating": "Two"
+  },
+  {
+    "title": "Book Title 7",
+    "price": "\u00a314.00",
+    "availability": "Out of stock",
+    "rating": "Three"
+  },
+  {
+    "title": "Book Title 8",
+    "price": "\u00a316.00",
+    "availability": "In stock",
+    "rating": "Four"
+  },
+  {
+    "title": "Book Title 9",
+    "price": "\u00a318.00",
+    "availability": "Out of stock",
+    "rating": "Five"
+  },
+  {
+    "title": "Book Title 10",
+    "price": "\u00a320.00",
+    "availability": "In stock",
+    "rating": "One"
+  },
+  {
+    "title": "Book Title 11",
+    "price": "\u00a322.00",
+    "availability": "Out of stock",
+    "rating": "Two"
+  },
+  {
+    "title": "Book Title 12",
+    "price": "\u00a324.00",
+    "availability": "In stock",
+    "rating": "Three"
+  },
+  {
+    "title": "Book Title 13",
+    "price": "\u00a326.00",
+    "availability": "Out of stock",
+    "rating": "Four"
+  },
+  {
+    "title": "Book Title 14",
+    "price": "\u00a328.00",
+    "availability": "In stock",
+    "rating": "Five"
+  },
+  {
+    "title": "Book Title 15",
+    "price": "\u00a330.00",
+    "availability": "Out of stock",
+    "rating": "One"
+  },
+  {
+    "title": "Book Title 16",
+    "price": "\u00a332.00",
+    "availability": "In stock",
+    "rating": "Two"
+  },
+  {
+    "title": "Book Title 17",
+    "price": "\u00a334.00",
+    "availability": "Out of stock",
+    "rating": "Three"
+  },
+  {
+    "title": "Book Title 18",
+    "price": "\u00a336.00",
+    "availability": "In stock",
+    "rating": "Four"
+  },
+  {
+    "title": "Book Title 19",
+    "price": "\u00a338.00",
+    "availability": "Out of stock",
+    "rating": "Five"
+  },
+  {
+    "title": "Book Title 20",
+    "price": "\u00a340.00",
+    "availability": "In stock",
+    "rating": "One"
+  }
+]
