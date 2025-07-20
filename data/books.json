@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Book Title 1",
+    "price": "£2.00",
+    "availability": "In stock",
+    "rating": "One"
+  },
+  {
+    "title": "Book Title 2",
+    "price": "£4.00",
+    "availability": "Out of stock",
+    "rating": "Two"
+  },
+  {
+    "title": "Book Title 3",
+    "price": "£6.00",
+    "availability": "In stock",
+    "rating": "Three"
+  },
+  {
+    "title": "Book Title 4",
+    "price": "£8.00",
+    "availability": "Out of stock",
+    "rating": "Four"
+  },
+  {
+    "title": "Book Title 5",
+    "price": "£10.00",
+    "availability": "In stock",
+    "rating": "Five"
+  },
+  {
+    "title": "Book Title 6",
+    "price": "£12.00",
+    "availability": "In stock",
+    "rating": "Two"
+  },
+  {
+    "title": "Book Title 7",
+    "price": "£14.00",
+    "availability": "Out of stock",
+    "rating": "Three"
+  },
+  {
+    "title": "Book Title 8",
+    "price": "£16.00",
+    "availability": "In stock",
+    "rating": "Four"
+  },
+  {
+    "title": "Book Title 9",
+    "price": "£18.00",
+    "availability": "Out of stock",
+    "rating": "Five"
+  },
+  {
+    "title": "Book Title 10",
+    "price": "£20.00",
+    "availability": "In stock",
+    "rating": "One"
+  },
+  {
+    "title": "Book Title 11",
+    "price": "£22.00",
+    "availability": "Out of stock",
+    "rating": "Two"
+  },
+  {
+    "title": "Book Title 12",
+    "price": "£24.00",
+    "availability": "In stock",
+    "rating": "Three"
+  },
+  {
+    "title": "Book Title 13",
+    "price": "£26.00",
+    "availability": "Out of stock",
+    "rating": "Four"
+  },
+  {
+    "title": "Book Title 14",
+    "price": "£28.00",
+    "availability": "In stock",
+    "rating": "Five"
+  },
+  {
+    "title": "Book Title 15",
+    "price": "£30.00",
+    "availability": "Out of stock",
+    "rating": "One"
+  },
+  {
+    "title": "Book Title 16",
+    "price": "£32.00",
+    "availability": "In stock",
+    "rating": "Two"
+  },
+  {
+    "title": "Book Title 17",
+    "price": "£34.00",
+    "availability": "Out of stock",
+    "rating": "Three"
+  },
+  {
+    "title": "Book Title 18",
+    "price": "£36.00",
+    "availability": "In stock",
+    "rating": "Four"
+  },
+  {
+    "title": "Book Title 19",
+    "price": "£38.00",
+    "availability": "Out of stock",
+    "rating": "Five"
+  },
+  {
+    "title": "Book Title 20",
+    "price": "£40.00",
+    "availability": "In stock",
+    "rating": "One"
+  }
+]
